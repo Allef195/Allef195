@@ -1,3 +1,4 @@
+-  Welcome!!
 -  Hi, I’m @Allef195
 -  I’m interested in volleybol
 -  I’m currently learning systems development
@@ -9,3 +10,4 @@ Allef195/Allef195 is a![download](https://github.com/user-attachments/assets/d92
  ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![download](https://github.com/user-attachments/assets/a5bf97b6-9f70-44b2-965a-e5eb6e2691d2)
