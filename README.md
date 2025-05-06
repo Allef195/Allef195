@@ -5,9 +5,5 @@
 -  I’m looking to collaborate on information Technology
 -  Pronouns: he/him
 
-<!---
-Allef195/Allef195 is a![download](https://github.com/user-attachments/assets/d927a059-26e1-487d-921b-92a14c679d94)
- ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![download](https://github.com/user-attachments/assets/a5bf97b6-9f70-44b2-965a-e5eb6e2691d2)
+
+![AnimeJujutsuKaisenGIF](https://github.com/user-attachments/assets/ebe30fb8-485a-4061-8aa4-2b858380308f)
